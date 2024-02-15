@@ -7,7 +7,7 @@ The project is a C++ simulation of a beverage maker that caters to coffee and te
 User Menu: Allows users to place orders for their preferred beverage.\
 Admin Menu: Accessible via a password, enabling administrators to manage resources, view recipes, and monitor container quantities.\
 Recipe Handling: Utilizes text files to store and retrieve beverage recipes.\
-Multithreading: Simulates beverage preparation time using thread.sleep for enhanced realism.\
+Multithreading: Simulates beverage preparation time using thread.sleep for enhanced realism.
 
 ### OOP Principles Implementation in C++
 File Handling for Recipe Management\
